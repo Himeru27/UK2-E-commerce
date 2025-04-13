@@ -2,7 +2,7 @@
 
 # Full Source Files & Code for the website UK2 E-Commerce
 
-# The folder Contains:
+### The folder Contains:
 
 - Images
 - Icons
